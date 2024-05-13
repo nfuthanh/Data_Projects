@@ -24,4 +24,7 @@ The dataset is stored in a CSV file named sample_accounting_transactions.csv. Ea
 # Project Overview
 This project comprises several steps and components aimed at analyzing accounting transactions and classifying overdue transaction from the provided dataset:
 - Importing necessary librabries and gaining initial understanding about the data structure, values,..
-- Performing EDA
+- Performing EDA: understanding the distribution and relationships between variables.
+- Data Preprocessing: Handling missing values, Feature Engineering (Feature Selection, Feature Extraction, Feature Transformation)
+- Building pipeline for modelling
+- Comparing models
