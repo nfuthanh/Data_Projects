@@ -26,5 +26,8 @@ This project comprises several steps and components aimed at analyzing accountin
 - Importing necessary librabries and gaining initial understanding about the data structure, values,..
 - Performing EDA: understanding the distribution and relationships between variables.
 - Data Preprocessing: Handling missing values, Feature Engineering (Feature Selection, Feature Extraction, Feature Transformation)
-- Building pipeline for modelling
+- Building pipeline for 3 models: Random Forest, Logistic Regression and K-nearest neighbor
 - Comparing models
+
+# Results
+- All algorithms perform well, especially Logistic algorithm achieves optimal classification with an ROC-AUC score above 83%
